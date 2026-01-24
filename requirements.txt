@@ -1,0 +1,17 @@
+# EdgeAI-Gesture-Control Dependencies
+# Sprint 2: MediaPipe Hands Integration (MediaPipe 0.10.32+)
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Hand Gesture Recognition - MediaPipe 0.10.32+ (new Tasks API)
+mediapipe>=0.10.32
+
+# MQTT Protocol for IoT Communication (Sprint 3)
+paho-mqtt>=1.6.1
+
+# Additional utilities
+numpy>=1.24.0
+
+# Note: MediaPipe 0.10.32 requires downloading the Hand Landmarker model
+# Run: python download_model.py (first time setup)
