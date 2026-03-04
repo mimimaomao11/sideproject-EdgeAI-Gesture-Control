@@ -1,4 +1,4 @@
-# EdgeAI-Gesture-Control 🤖👋
+# EdgeAI-Gesture-Control 🤖👋 (not finish)
 
 > **透過電腦視覺賦能 IoT：基於 MediaPipe 的手勢控制系統**
 
